@@ -17,6 +17,5 @@ wsl
 | 完整环境包         | 说明                                                         | 官方文档                                                     |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | rknn-1.7.3.tar.xz  | 用于RK1808/RK1806/RK3399Pro/RV1109/RV1126芯片平台模型转换    | [rknn_toolkit](https://github.com/airockchip/rknn-toolkit)   |
-| rknn2-1.6.2.tar.xz | 用于RK3566/RK3568/RK3588/RK3562/RV1103/RV1106芯片平台模型转换 | [rknn_toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) |
 | rknn2-2.0.0.tar.xz | 用于RK3566/RK3568/RK3588/RK3576/RK3562/RV1103/RV1106/RK2118芯片平台模型转换 | [rknn_toolkit2](https://github.com/airockchip/rknn-toolkit2) |
 

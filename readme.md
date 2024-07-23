@@ -3,9 +3,7 @@
 
 ## 交叉编译
 
-1. 下载[交叉编译工具链](https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-x86_64-aarch64-none-linux-gnu.tar.xz);
-2. 将下载的交叉编译工具链压缩包放在`SDK`根目录并解压;
-3. 进入子项目路径并运行`make.sh`编译脚本.
+进入子项目路径并运行`make.sh`编译脚本.
 
 ## 运行测试
 
