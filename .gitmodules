@@ -1,0 +1,3 @@
+[submodule "spdp"]
+	path = spdp
+	url = http://gitlab.viz.com/ALGORITHM/speeddp_deploy.git
