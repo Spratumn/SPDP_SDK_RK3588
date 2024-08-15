@@ -12,7 +12,7 @@ wsl
 ./convert2rknn.elf --env <rknn_toolkit工具包在linux子系统中的绝对路径> --model <导出模型在linux子系统中的绝对路径> --platform rk3588
 ```
 
-<font color='red'>注1：用户可根据需要直接使用我们打包好的`rknn2.2.0.tar.gz`环境包或者参照[rknn_toolkit2](https://github.com/airockchip/rknn-toolkit2) 官方文档自行安装准备。</font>
+<font color='red'>注1：用户可根据需要直接使用我们打包好的`rknn2.1.0.tar.gz`环境包或者参照[rknn_toolkit2](https://github.com/airockchip/rknn-toolkit2) 官方文档自行安装准备。</font>
 
 <font color='red'>注2：`convert2rknn`工具须搭配`python3.8`进行使用，因此用户自行安装`rknn_toolkit2`环境时请选择`python3.8`对应的安装包。</font>
 
